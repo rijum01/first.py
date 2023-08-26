@@ -1,1 +1,1 @@
-# first.py
+print("Hello World")
